@@ -8613,6 +8613,7 @@ function _p9k_init_cacheable() {
       Darwin)                    _p9k_set_os OSX     APPLE_ICON;;
       CYGWIN*|MSYS*|MINGW*)      _p9k_set_os Windows WINDOWS_ICON;;
       FreeBSD|OpenBSD|DragonFly) _p9k_set_os BSD     FREEBSD_ICON;;
+      NetBSD)                    _p9k_set_os BSD     NETBSD_ICON;;
       Linux)
         _p9k_os='Linux'
         local os_release_id

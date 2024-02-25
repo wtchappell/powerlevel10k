@@ -46,6 +46,7 @@ function _p9k_init_icons() {
         APPLE_ICON                     '\uE26E'$s             # 
         WINDOWS_ICON                   '\uE26F'$s             # 
         FREEBSD_ICON                   '\U1F608'$q            # 😈
+        NETBSD_ICON                    '\UF024'$s             # 
         ANDROID_ICON                   '\uE270'$s             # 
         LINUX_ICON                     '\uE271'$s             # 
         LINUX_ARCH_ICON                '\uE271'$s             # 
@@ -204,6 +205,7 @@ function _p9k_init_icons() {
         APPLE_ICON                     '\uF179'$s             # 
         WINDOWS_ICON                   '\uF17A'$s             # 
         FREEBSD_ICON                   '\U1F608'$q            # 😈
+        NETBSD_ICON                    '\UF024'$s             # 
         ANDROID_ICON                   '\uE17B'$s             #  (doesn't always work)
         LINUX_ICON                     '\uF17C'$s             # 
         LINUX_ARCH_ICON                '\uF17C'$s             # 
@@ -364,6 +366,7 @@ function _p9k_init_icons() {
         MULTILINE_LAST_PROMPT_PREFIX   '\u2570\U2500 '                                # ╰─
         APPLE_ICON                     "${CODEPOINT_OF_AWESOME_APPLE:+\\u$CODEPOINT_OF_AWESOME_APPLE$s}"
         FREEBSD_ICON                   '\U1F608'$q                                    # 😈
+        NETBSD_ICON                    '\UF024'$s                                     # 
         LINUX_ICON                     "${CODEPOINT_OF_AWESOME_LINUX:+\\u$CODEPOINT_OF_AWESOME_LINUX$s}"
         LINUX_ARCH_ICON                "${CODEPOINT_OF_AWESOME_LINUX:+\\u$CODEPOINT_OF_AWESOME_LINUX$s}"
         LINUX_DEBIAN_ICON              "${CODEPOINT_OF_AWESOME_LINUX:+\\u$CODEPOINT_OF_AWESOME_LINUX$s}"
@@ -516,6 +519,7 @@ function _p9k_init_icons() {
         APPLE_ICON                     '\uF179'               # 
         WINDOWS_ICON                   '\uF17A'$s             # 
         FREEBSD_ICON                   '\UF30C '              # 
+        NETBSD_ICON                    '\UF024'$s             # 
         ANDROID_ICON                   '\uF17B'               # 
         LINUX_ARCH_ICON                '\uF303'$s             # 
         LINUX_CENTOS_ICON              '\uF304'$s             # 
@@ -676,6 +680,7 @@ function _p9k_init_icons() {
         APPLE_ICON                     '\uF179'               # 
         WINDOWS_ICON                   '\uF17A'$s             # 
         FREEBSD_ICON                   '\UF30C '              # 
+        NETBSD_ICON                    '\UF024'$s             # 
         ANDROID_ICON                   '\uF17B'               # 
         LINUX_ARCH_ICON                '\uF303'$s             # 
         LINUX_CENTOS_ICON              '\uF304'$s             # 
@@ -828,6 +833,7 @@ function _p9k_init_icons() {
         APPLE_ICON                     'mac'
         WINDOWS_ICON                   'win'
         FREEBSD_ICON                   'bsd'
+        NETBSD_ICON                    'netbsd'
         ANDROID_ICON                   'android'
         LINUX_ICON                     'linux'
         LINUX_ARCH_ICON                'arch'
@@ -982,6 +988,7 @@ function _p9k_init_icons() {
         APPLE_ICON                     'OSX'
         WINDOWS_ICON                   'WIN'
         FREEBSD_ICON                   'BSD'
+        NETBSD_ICON                    'NBSD'
         ANDROID_ICON                   'And'
         LINUX_ICON                     'Lx'
         LINUX_ARCH_ICON                'Arc'
