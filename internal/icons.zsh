@@ -517,7 +517,7 @@ function _p9k_init_icons() {
         WINDOWS_ICON                   '\uF17A'$s             # 
         FREEBSD_ICON                   '\UF30C '              # 
         ANDROID_ICON                   '\uF17B'               # 
-        LINUX_ARCH_ICON                '\uF303'               # 
+        LINUX_ARCH_ICON                '\uF303'$s             # 
         LINUX_CENTOS_ICON              '\uF304'$s             # 
         LINUX_COREOS_ICON              '\uF305'$s             # 
         LINUX_DEBIAN_ICON              '\uF306'               # 
@@ -677,7 +677,7 @@ function _p9k_init_icons() {
         WINDOWS_ICON                   '\uF17A'$s             # 
         FREEBSD_ICON                   '\UF30C '              # 
         ANDROID_ICON                   '\uF17B'               # 
-        LINUX_ARCH_ICON                '\uF303'               # 
+        LINUX_ARCH_ICON                '\uF303'$s             # 
         LINUX_CENTOS_ICON              '\uF304'$s             # 
         LINUX_COREOS_ICON              '\uF305'$s             # 
         LINUX_DEBIAN_ICON              '\uF306'               # 
